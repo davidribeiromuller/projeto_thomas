@@ -1,0 +1,6 @@
+{
+  "name": "Surpresa do Thomas",
+  "description": "Experiência interativa de aniversário com QR Code temático de dinossauro e animação cinematográfica com personagens convidados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
